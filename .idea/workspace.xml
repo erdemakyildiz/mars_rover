@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e1b0bd-c526-4c41-9bd8-a512d9050111" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.16.2" />
+  <component name="ProjectId" id="1qz0219x4y5l89lKLFNfVlcTRjs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../marsRoverCase/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../marsRoverCase/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../marsRoverCase/src" />
+      <recent name="$PROJECT_DIR$/../marsRoverCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test marsRoverCase">
+    <configuration name="go build test/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="marsRoverCase" />
+      <working_directory value="$PROJECT_DIR$/../marsRoverCase" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/../marsRoverCase/test" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCratePlateau in Plateau_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="marsRoverCase" />
+      <working_directory value="$PROJECT_DIR$/../marsRoverCase/src" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/../marsRoverCase" />
+      <filePath value="$PROJECT_DIR$/../marsRoverCase/src/Plateau_test.go" />
+      <pattern value="^\QTestCratePlateau\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test marsRoverCase" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="marsRoverCase" />
+      <working_directory value="$PROJECT_DIR$/../marsRoverCase" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/../marsRoverCase" />
+      <filePath value="$PROJECT_DIR$/../marsRoverCase" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build test/" />
+      <item itemvalue="Go Test.go test marsRoverCase" />
+      <item itemvalue="Go Test.TestCratePlateau in Plateau_test.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test marsRoverCase" />
+        <item itemvalue="Go Test.TestCratePlateau in Plateau_test.go" />
+        <item itemvalue="Go Build.go build test/" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="365" key="#Go_Modules" timestamp="1618071784789">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="640" y="365" key="#Go_Modules/0.0.1680.1050@0.0.1680.1050" timestamp="1618071784789" />
+    <state x="304" y="187" width="1071" height="797" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618078639081">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1071" height="797" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1618078639081" />
+    <state x="565" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618067382349">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="565" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1618067382349" />
+    <state x="616" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1618069570845">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="616" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1618069570845" />
+    <state x="603" y="235" key="#xdebugger.evaluate" timestamp="1618077113414">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="603" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1618077113414" />
+    <state width="662" height="466" key="DebuggerActiveHint" timestamp="1618077091989">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="662" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1618077091989" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1618079696324">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1618079696324" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1618079696323">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1618079696323" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1618079696322">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1618079696322" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1618079696323">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1618079696323" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1618077715594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1618077715594" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1618077715593">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1618077715593" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1618077715592">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1618077715592" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1618077715593">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1618077715593" />
+    <state x="538" y="280" width="604" height="490" key="find.popup" timestamp="1618079136243">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="280" width="604" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1618079136243" />
+    <state x="683" y="298" key="refactoring.ChangeSignatureDialog" timestamp="1618073227713">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="683" y="298" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1618073227713" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/marsRoverCase$go_test_test.out" NAME="go test test Coverage Results" MODIFIED="1618077958617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/marsRoverCase$go_test_marsRoverCase.out" NAME="go test marsRoverCase Coverage Results" MODIFIED="1618077938019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
