@@ -5,19 +5,19 @@ import "strconv"
 type Rover struct {
 	plateau Plateau
 	currentPosition Position
-	direction string
+	direction DirectionContext
 }
 
 func (r *Rover) turnRight() {
-	r.direction = Rotate(1, r.direction)
+	r.direction.Right()
 }
 
 func (r *Rover) turnLeft() {
-	r.direction = Rotate(-1, r.direction)
+	r.direction.Left()
 }
 
 func (r *Rover) moveForward() {
-	newPosition := Move(r.direction, r.currentPosition)
+	newPosition := Move(r.currentPosition, r.direction.Position())
 
 	if r.plateau.PositionIsValid(newPosition){
 		r.currentPosition = newPosition
@@ -25,7 +25,7 @@ func (r *Rover) moveForward() {
 }
 
 func (r *Rover) getPosition() string {
-	return strconv.Itoa(r.currentPosition.x) + " " + strconv.Itoa(r.currentPosition.y) + " " + r.direction
+	return strconv.Itoa(r.currentPosition.x) + " " + strconv.Itoa(r.currentPosition.y) + " " + r.direction.GetLabel()
 }
 
 func (r *Rover) commands(cmd string) {
